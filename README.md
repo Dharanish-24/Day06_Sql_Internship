@@ -1,4 +1,5 @@
-# Subqueries  
+# Subqueries
+## Types Of Subquery
 ### 1. Scalar Subquery
     SELECT column1 FROM table
     WHERE column2 = (
@@ -6,6 +7,7 @@
     FROM another_table
     WHERE condition
     );
+![Scalar Subquery]()
 ### 2. Column Subquery
     SELECT column1 FROM table
     WHERE column2 IN (
