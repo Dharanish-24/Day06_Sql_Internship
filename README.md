@@ -15,7 +15,7 @@
         FROM another_table
         WHERE condition
     );
-![Column Subquery]()
+![image](https://github.com/Dharanish-24/Day06_Sql_Internship/blob/main/Screenshot%202025-07-01%20103447.png)
 ### 3. Row Subquery
     SELECT * FROM table
     WHERE (col1, col2) = (
