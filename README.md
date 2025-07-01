@@ -9,7 +9,7 @@ Returns exactly one value (one row, one column)
     FROM another_table
     WHERE condition
     );
-![image](https://github.com/Dharanish-24/Day06_Sql_Internship/commit/b7e261ea73c87bbcd675b9d0c59dfeed8ee157cf)
+![image](https://github.com/Dharanish-24/Day06_Sql_Internship/blob/main/Screenshot%202025-07-01%20103232.png)
 ### 2. Column Subquery
 Returns one column, multiple rows
 
